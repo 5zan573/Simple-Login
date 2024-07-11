@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-11T19:34:47 IST" name="Default suite" finished-at="2024-07-11T19:35:17 IST" duration-ms="29960">
+    <groups>
+    </groups>
+    <test started-at="2024-07-11T19:34:47 IST" name="Default test" finished-at="2024-07-11T19:35:17 IST" duration-ms="29960">
+      <class name="POM.SimpleLogin.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:34:47 IST" name="setUp" finished-at="2024-07-11T19:34:52 IST" duration-ms="4894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEmptyfields()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:34:52 IST" name="testEmptyfields" finished-at="2024-07-11T19:34:53 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyfields -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:34:53 IST" name="setUp" finished-at="2024-07-11T19:34:57 IST" duration-ms="4207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidPassword()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:34:57 IST" name="testInvalidPassword" finished-at="2024-07-11T19:34:58 IST" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidPassword -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:34:58 IST" name="setUp" finished-at="2024-07-11T19:35:06 IST" duration-ms="8386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidUsername()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:35:06 IST" name="testInvalidUsername" finished-at="2024-07-11T19:35:07 IST" duration-ms="765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidUsername -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:35:07 IST" name="setUp" finished-at="2024-07-11T19:35:12 IST" duration-ms="5108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testlogin()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:35:12 IST" name="testlogin" finished-at="2024-07-11T19:35:13 IST" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:35:13 IST" name="setUp" finished-at="2024-07-11T19:35:17 IST" duration-ms="4361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifytitleTest()[pri:0, instance:POM.SimpleLogin.LoginTest@72035809]" started-at="2024-07-11T19:35:17 IST" name="verifytitleTest" finished-at="2024-07-11T19:35:17 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitleTest -->
+      </class> <!-- POM.SimpleLogin.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
